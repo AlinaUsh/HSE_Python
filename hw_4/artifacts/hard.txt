@@ -1,0 +1,26 @@
+Message: "asd fgh" | Time: 2022-03-09 23:00:11.782644
+Encoded: "nfq stu" | Time: 2022-03-09 23:00:11.921083
+
+Message: "123qwe" | Time: 2022-03-09 23:00:15.209010
+Encoded: "123djr" | Time: 2022-03-09 23:00:16.903823
+
+Message: "aaaaaaaaaaaaaa" | Time: 2022-03-09 23:00:20.297105
+Encoded: "nnnnnnnnnnnnnn" | Time: 2022-03-09 23:00:21.918106
+
+Message: "a" | Time: 2022-03-09 23:00:22.744953
+Encoded: "n" | Time: 2022-03-09 23:00:26.918749
+
+Message: "qwertyuiop" | Time: 2022-03-09 23:00:48.262135
+Encoded: "djreglhvbc" | Time: 2022-03-09 23:00:48.263074
+
+Message: "lkjhgfdsa zxcvbnm poiuytrewq" | Time: 2022-03-09 23:01:02.695995
+Encoded: "yxwutsqfn mkpioaz cbvhlgerjd" | Time: 2022-03-09 23:01:02.696945
+
+Message: "DFKHDKFB jfkjf" | Time: 2022-03-09 23:01:10.729861
+Encoded: "qsxuqxso wsxws" | Time: 2022-03-09 23:01:10.730860
+
+Message: "ERTHghjkERTYUI" | Time: 2022-03-09 23:01:16.989289
+Encoded: "regutuwxreglhv" | Time: 2022-03-09 23:01:16.989318
+
+Message: "exit" | Time: 2022-03-09 23:01:19.628546
+Exit: 2022-03-09 23:01:19.628546

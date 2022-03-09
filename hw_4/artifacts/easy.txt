@@ -1,0 +1,2 @@
+threading: 3.544708013534546
+multiprocessing: 2.2510509490966797
